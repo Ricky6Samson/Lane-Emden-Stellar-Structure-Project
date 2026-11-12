@@ -23,7 +23,7 @@ An interactive Streamlit application allows users to explore the effects of vary
 
 Explore the numerical solutions using the interactive Streamlit application.
 
-**Live App:** [Open Lane–Emden Explorer]([https://k4gwmktwzc6r4uh3elcvrv.streamlit.app/])
+**Live App:** [Open Lane–Emden Explorer](https://k4gwmktwzc6r4uh3elcvrv.streamlit.app/)
 
 ## Results and Visualisations
 
